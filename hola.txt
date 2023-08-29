@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 ok
 Añadiendo texto Felipe
-=======
 conflicto!!!!
->>>>>>> 8247b391a214d00848749c50447b488c8709beec
